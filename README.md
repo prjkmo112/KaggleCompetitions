@@ -1,11 +1,13 @@
 # Kaggle Competition 정리
 
 [1. Spaceship Titanic](#1-spaceship-titanic)
+[2. Store Sales - Time Series Forecasting](#2-store-sales---time-series-forecasting)
 
 
 
 ## 1. Spaceship Titanic
 - kaggle url: https://www.kaggle.com/competitions/spaceship-titanic
+- source: [spaceship_titanic](/spaceship_titanic/)
 
 - source flow (work flow)
     1. [fst_try.ipynb](spaceship_titanic/fst_try.ipynb): 첫번째 시도 <br>
@@ -26,3 +28,13 @@
 
     6. [preprocess.ipynb](spaceship_titanic/preprocess.ipynb): 데이터 전처리 <br>
         데이터 전처리에 집중
+
+
+## 2. Store Sales - Time Series Forecasting
+- kaggle url: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
+- source: [Store Sales - Time Series Forecasting](/Store%20Sales%20-%20Time%20Series%20Forecasting/)
+
+- source flow (work flow)
+    1. [preprocess.ipynb](Store%20Sales%20-%20Time%20Series%20Forecasting/preprocess.ipynb): 데이터 전처리 <br>
+    처음부터 전처리하는 부분은 분리시킴
+
